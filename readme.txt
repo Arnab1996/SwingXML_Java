@@ -1,10 +1,7 @@
-$Id: readme.txt,v 1.3 2015/01/01, 05:05:06 wolfpaulus Exp $
-
 Introduction
 ============
 
 See the web site http://www.swixml.org
-
 
 Installing the build tools
 ==========================
@@ -38,7 +35,7 @@ to detect which files have changed and recompile them as needed.
 
 If something went wrong, go to the Swixml forum, available at the swixml web site.at
 
-  http://www.swixml.org/forum/
+ http://www.swixml.org/forum/
 
 
 Build targets
@@ -64,6 +61,4 @@ build samples
 To learn the details of what each target does, read the build.xml file.  
 It is quite understandable.
 
-Best,
-Wolf Paulus and the Swixml Dev. Team.
 
